@@ -1,0 +1,35 @@
+# scan = 72
+# date = 1/29/2016
+# time = 3:15:02 PM
+# proposal = IPTS-15831.1.1
+# experiment = Spin fluctuation in UPt2Si2
+# experiment_number = 672
+# command = scan h 1 k 0 l 0 e 2 10 1 preset mcu 300
+# builtin_command = scan h 1 k 0 l 0 e 2 10 1 preset mcu 300
+# users = J. Lee, M. Matsuda, G.Granroth
+# local_contact = M. Matsuda
+# scan_title = 100 constant Q at 5 K
+# monochromator = PG002
+# analyzer = Pg002
+# sense = +-+
+# collimation = 48-80-80-240
+# samplename = UPt2Si2
+# sampletype = crystal
+# samplemosaic = 30.000000
+# latticeconstants = 4.202976,4.202976,9.649655,90.000000,90.000000,90.000000
+# ubmatrix = -0.045435,-0.003052,0.101715,-0.233547,0.000000,-0.019791,0.000583,-0.237907,-0.001305
+# mode = 0
+# plane_normal = 0.012828,0.000000,0.999917
+# ubconf = UB29Jan2016_23033PM.ini
+# preset_type = normal 
+# preset_channel = mcu
+# preset_value = 300.000000
+# def_x = e
+# def_y = detector
+# col_headers = 
+#   Pt.          h          k          l          e       time   detector    monitor        mcu focal_length         m1         m2       marc     mtrans     mfocus         s1         s2        sgl        sgu        stl        stu   slita_bt   slita_lf   slita_rt   slita_tp   slitb_bt   slitb_lf   slitb_rt   slitb_tp         a1         a2          q         ei         ef   cold_tip    tsample     temp_a
+      1     1.0000    -0.0000     0.0011     1.9924      0.000      0.000      0.000    300.000    65.0513   -43.2747    40.0427     0.0000     0.0000   182.5703    77.9731   -32.6121    -0.7350     0.0000     0.0010     0.0030    17.0000     5.0000     8.0000    19.0000    13.0000     9.0000     4.0000    10.0000    21.5217    43.0308     1.4950    15.5002    13.5079     4.4809     4.7096     1.000
+# Sum of Counts = 0
+# Center of Mass = NaN+/-NaN
+# Full Width Half-Maximum = NaN+/-NaN
+# 3:16:14 PM  1/29/2016   scan stopped!!
