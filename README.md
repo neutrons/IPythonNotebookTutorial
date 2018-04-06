@@ -33,3 +33,11 @@ IPython Notebook Tutorial for the scientists
 
 7. Working with Mantid and Python
  
+
+# Setup environment using conda
+
+```
+$ conda create -n ipythonnotebooktutorial
+$ source activate ipythonnotebooktutorial
+$ conda install python=3 scipy numpy matplotlib h5py astropy lmfit jupyter
+```
