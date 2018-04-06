@@ -41,3 +41,7 @@ $ conda create -n ipythonnotebooktutorial
 $ source activate ipythonnotebooktutorial
 $ conda install python=3 scipy numpy matplotlib h5py astropy lmfit jupyter
 ```
+
+# Links for jupyter
+* A gallery of jupyter notebooks: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+* Coursera data science course using jupyter https://en.coursera.org/learn/python-data-analysis
