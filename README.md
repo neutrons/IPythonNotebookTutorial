@@ -12,7 +12,7 @@ IPython Notebook Tutorial for the scientists
   - matplotlib plot
   
 2. Loading and plotting data from a text file
- - `mumpy` record arrays and `genfromtxt`
+ - `numpy` record arrays and `genfromtxt`
  - Matplotlib: scatter, log, error bars and legend
 
 3. Loading and viewing image data.
@@ -33,3 +33,11 @@ IPython Notebook Tutorial for the scientists
 
 7. Working with Mantid and Python
  
+
+# Setup environment using conda
+
+```
+$ conda create -n ipythonnotebooktutorial
+$ source activate ipythonnotebooktutorial
+$ conda install python=3 scipy numpy matplotlib h5py astropy lmfit jupyter
+```
