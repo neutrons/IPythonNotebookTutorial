@@ -12,7 +12,7 @@ IPython Notebook Tutorial for the scientists
   - matplotlib plot
   
 2. Loading and plotting data from a text file
- - `mumpy` record arrays and `genfromtxt`
+ - `numpy` record arrays and `genfromtxt`
  - Matplotlib: scatter, log, error bars and legend
 
 3. Loading and viewing image data.
