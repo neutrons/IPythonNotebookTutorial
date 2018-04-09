@@ -1,6 +1,13 @@
 # IPythonNotebookTutorial
 IPython Notebook Tutorial for the scientists
 
+# Get notebooks
+For SNS users, run the following command:
+
+```
+$ /EXAMPLES/IPythonNotebookTutorial/copy-notebooks.py
+```
+
 # Contents
 
 1. Introduction to Python with Jupyter Notebooks
@@ -42,6 +49,7 @@ $ source activate ipythonnotebooktutorial
 $ conda install python=3 scipy numpy matplotlib h5py astropy lmfit jupyter
 ```
 
-# Links for jupyter
+# Links
 * A gallery of jupyter notebooks: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 * Coursera data science course using jupyter https://en.coursera.org/learn/python-data-analysis
+* Jupyter notebook "BINARY BLACK HOLE SIGNALS IN LIGO OPEN DATA": http://nbviewer.jupyter.org/urls/losc.ligo.org/s/events/LOSC_Event_tutorial.ipynb
