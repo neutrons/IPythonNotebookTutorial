@@ -1,12 +1,8 @@
 # IPythonNotebookTutorial
 IPython Notebook Tutorial for the scientists
 
-# Get notebooks
-For SNS users, run the following command:
-
-```
-$ /EXAMPLES/IPythonNotebookTutorial/copy-notebooks.py
-```
+# Get started
+For SNS users, open [this link](https://jupyter.sns.gov/user/{USER}/notebooks/notebooks/Get%20Python%20Tutorials.ipynb) to get started.
 
 # Contents
 
