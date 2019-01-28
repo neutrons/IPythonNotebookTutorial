@@ -8,7 +8,8 @@ The coarse is a series of example notebooks working with data from the neutron s
 We will hold this training at HFIR in 29A&B.  Please let us know your interest so we can be sure to hold you a spot.  A more detailed agenda will be developed closer to the training.  But here is an overview of the scope.
 
 The first two days of the course will cover the following topics
-Topics:
+Topics: 
+
     - Using Jupyter Notebooks
     - Intro to Python
     - Loading and Plotting Ascii Data with Numpy and Matplotlib
@@ -20,7 +21,8 @@ Topics:
     - Using Mantid within Python
     - Simple widgets in Jupyter notebooks
 
-We can cover some of the following topics on day 3.  Please let us know which of the following interest you.
+We can cover some of the following topics on day 3.  Please let us know which of the following interest you. 
+
     - Python from a traditional scripting interface
     - Working with XML files
     - Using CPU Parallelization
