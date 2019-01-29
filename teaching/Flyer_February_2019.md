@@ -4,7 +4,7 @@ The Neutron Data Sciences Group will offer an Introductory Python Course for Sta
 
 February 26-28, 2019
 
-The coarse is a series of example notebooks working with data from the neutron scattering instruments at HFIR and SNS.  We will use this "programming by example" philosophy to introduce the syntax of the Python language.
+The course is a series of example notebooks working with data from the neutron scattering instruments at HFIR and SNS.  We will use this "programming by example" philosophy to introduce the syntax of the Python language.
 No prior experience with Python is required.  But any experience will be helpful.
 We will run the examples from web based notebooks so you need to bring your laptop with a modern Browser (Google Chrome, Firefox, Safari all work well)
 We will hold this training at HFIR in 29A&B.  Please let us know your interest so we can be sure to hold you a spot.  A more detailed agenda will be developed closer to the training.  But here is an overview of the scope.
