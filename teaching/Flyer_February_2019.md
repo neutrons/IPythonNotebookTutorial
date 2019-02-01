@@ -4,6 +4,8 @@ The Neutron Data Sciences Group will offer an Introductory Python Course for Sta
 
 February 26-28, 2019
 
+Please register at https://goo.gl/forms/RrKidw9JZ7UutCQ43
+
 The course is a series of example notebooks working with data from the neutron scattering instruments at HFIR and SNS.  We will use this "programming by example" philosophy to introduce the syntax of the Python language.
 No prior experience with Python is required.  But any experience will be helpful.
 We will run the examples from web based notebooks so you need to bring your laptop with a modern Browser (Google Chrome, Firefox, Safari all work well)
@@ -23,17 +25,18 @@ Topics:
     - Using Mantid within Python
     - Simple widgets in Jupyter notebooks
 
-We can cover some of the following topics on day 3.  Please let us know which of the following interest you.
+We can cover some of the following topics on day 3.  
+Please let us know in your registration which topics interest you.
 
     - Python from a traditional scripting interface
     - Working with XML files
-    - Using CPU Parallelization
+    - Speeding up execution through vectorized programming
+    - Speeding up execution through CPU Parallelization
     - Scripting Paraview for visualizations
-    - More advanced use of LMfit  
-      - Multidimensional Fitting
-      - Using other optimizers
-      - sequential fitting
+    - More LMfit:  Multidimensional Fitting
+    - More LMfit: Using other optimizers
+    - More LMfit: Using sequential fitting
     - Sasview and SAS models from Python
-    - Using neutronpy with TAS data
-    - Manipulating large spreadsheets using pandas
-    - Using Python with ASE and Spinwave genie for for spinwaves
+    - Neutronpy for Triple Axis data
+    - Pandas: a programatic way to work with spreadsheets
+    - Using Python, ASE, and Spinwave genie to model spinwaves
