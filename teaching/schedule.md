@@ -16,6 +16,7 @@ February 27
 - Plotting 2D Data Fits and Tiff - Jean
 - Gaussian Fitting LMFit - Garrett
 - Working with HDF files - Ross
+- Working with MetaData; ONCat and Python - TBD
 
 - Intro to Python in the Mantid Workbench - Andrei
 - Mantid in Jupyter notebooks - Andrei
