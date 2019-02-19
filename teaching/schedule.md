@@ -9,6 +9,7 @@ February 26
 - XML File Manipulation - Ricardo
 - Numpy arrays & plotting - Ricardo
 - Multiple plotting - Glob - Andrei
+
 - If time, Using Widgets to Manipulate Plots - Jean
 
 February 27
@@ -24,11 +25,8 @@ February 27
 February 28
 
 - LMfit sequential Fitting - Garrett
-
 - LMfit MD fitting - Garrett
-
 - Python from the command line - Jiao
-
 - Paraview scripting for Volume plotting - Ross Whitfield
 
 - Bring your own problem
