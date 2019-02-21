@@ -17,6 +17,13 @@
 
 Simple script
 
-* plot_gaussian.py
+* plot_gaussian1.py
 
-Script with argument
+Script with argument using sys.argv
+
+* plot_gaussian2.py
+
+Script with argument using click
+
+* plot_gaussian3a.py
+* plot_gaussian3b.py
