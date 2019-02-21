@@ -14,6 +14,7 @@ Troubleshooting
   - In user's account 
   `$ mv ~/.sns-jupyternotebook-environment ~/.sns-jupyternotebook-environment.obsolete`
   - open [the Welcome notebook](https://jupyter.sns.gov/user/{USER}/notebooks/notebooks/Welcome.ipynb) and run it. You may need to **restart the kernel!**
+* If a user's remote kernels (named as **`... at jnrk-sns-analysis`**) keep failing, it is possible that the SNS analysis node that used to work for the user stops working. Modify `~/.ssh/config`, entry `jnrk-sns-analysis`, and change `HostName` to any one working analysis node: it should be something like `analysis-node14.sns.gov`.
   
 Misellaneous
 * Stickers: quite useful. Ask people to remove the green sticker before starting each exercise
