@@ -27,3 +27,8 @@ Script with argument using click
 
 * plot_gaussian3a.py
 * plot_gaussian3b.py
+
+Progressbar
+
+* plot_gaussian4a.py
+* plot_gaussian4b.py
