@@ -5,7 +5,7 @@ Getting ready before the class:
 * Goto analysis cluster `/EXAMPLES/IPYthonNotebookTutorial/` and run `git pull`
 
 Starting the class by
-* Asking users to click https://jupyter.sns.gov/user/%7BUSER%7D/notebooks/notebooks/Get%20Python%20Tutorials.ipynb and run the notebook
+* Asking users to click [the get-python-tutorials notebook](https://jupyter.sns.gov/user/%7BUSER%7D/notebooks/notebooks/Get%20Python%20Tutorials.ipynb) and run the notebook
 
 Troubleshooting
 * Needs to remember "Data" is a symlink. 
