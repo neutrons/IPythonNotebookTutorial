@@ -13,7 +13,7 @@ Troubleshooting
 * If missing kernel(s), it is possible that a user's bookkeeping records for the kernels are broken. Need to restablish kernels for him/her. To do that
   - In user's account 
   `$ mv ~/.sns-jupyternotebook-environment ~/.sns-jupyternotebook-environment.obsolete`
-  - **Restart kernel and rerun** [the Welcome notebook](https://jupyter.sns.gov/user/{USER}/notebooks/notebooks/Welcome.ipynb)
+  - open [the Welcome notebook](https://jupyter.sns.gov/user/{USER}/notebooks/notebooks/Welcome.ipynb) and run it. You may need to **restart the kernel!**
   
 Misellaneous
 * Stickers: quite useful. Ask people to remove the green sticker before starting each exercise
