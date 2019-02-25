@@ -3,6 +3,11 @@
 # ./batch_red2.py 114565-114567,114580 .
 
 import sys, os, subprocess as sp
+
+if len(sys.argv)!=3:
+    print "Example: batch_red2.py 114565-114567,114580 /path/to/outputdir"
+    sys.exit()
+
 # add Mantid to python path
 sys.path.append("/opt/Mantid/bin")
 # get mantid
@@ -29,7 +34,7 @@ def batch_red(runs, outputdir):
             sp.check_call(cmd, shell=True, env=dict(PYTHONPATH=seq_ar_path))
         except sp.CalledProcessError as exc:
             print ("** Failed with code {}\n".format(exc.returncode,))
-        break
+        continue
     return
 
 def str2runs(x):

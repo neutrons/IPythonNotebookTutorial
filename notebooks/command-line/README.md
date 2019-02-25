@@ -15,7 +15,7 @@ This tutorial will be run on thinlinc connections to analysis.sns.gov.
   - tab complete
   - end
 
-## Python script
+## Simple python scripts
 
 Simple script
 
@@ -25,12 +25,11 @@ Script with argument using sys.argv
 
 * plot_gaussian2.py
 
-Script with argument using click
+## Autoreduction script
 
-* plot_gaussian3a.py
-* plot_gaussian3b.py
+* reduce_SEQ_2016.11.22_11.25.28.py
 
-Progressbar
+## Batch reduction scripts
 
-* plot_gaussian4a.py
-* plot_gaussian4b.py
+* batch_red1.py
+* batch_red2.py
