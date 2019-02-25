@@ -46,22 +46,22 @@ Script with argument using sys.argv
 
 ## Simple shell commands
 
-* pwd
-* cd
-* mkdir
-* ls
-* rmdir
-* pushd/popd
-* touch
-* cp
-* mv
-* less
-* cat
-* rm
-* exit
+* pwd: display current directory
+* cd: change directory
+* mkdir: create directory
+* ls: list entries in a directory
+* rmdir: remove a directory
+* pushd/popd: change directory
+* touch: create empty file
+* cp: copy file/directory
+* mv: move file/directory
+* less: view a file with pagenation
+* cat: stream a file
+* rm: remove file/directory
+* exit: exit terminal
 
 ## Path environment variables
 
-* PATH
-* PYTHONPATH
-* LD_LIBRARY_PATH
+* PATH: where are executables
+* PYTHONPATH: where are python libraries
+* LD_LIBRARY_PATH: where are shared binary libraries
