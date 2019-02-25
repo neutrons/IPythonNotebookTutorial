@@ -1,5 +1,7 @@
 # Run python from command line
 
+This tutorial will be run on thinlinc connections to analysis.sns.gov.
+
 ## Run Python interactively
 
 * Normal python interpreter
