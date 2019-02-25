@@ -2,6 +2,15 @@
 
 This tutorial will be run on thinlinc connections to analysis.sns.gov.
 
+## Where are we
+
+Run `$ cd ~/notebooks/IPythonNotebookTutorials-notebooks/command-line`
+
+## Tools
+
+* Terminal
+* gedit
+
 ## Run Python interactively
 
 * Normal python interpreter
@@ -33,3 +42,26 @@ Script with argument using sys.argv
 
 * batch_red1.py
 * batch_red2.py
+
+
+## Simple shell commands
+
+* pwd
+* cd
+* mkdir
+* ls
+* rmdir
+* pushd/popd
+* touch
+* cp
+* mv
+* less
+* cat
+* rm
+* exit
+
+## Path environment variables
+
+* PATH
+* PYTHONPATH
+* LD_LIBRARY_PATH
